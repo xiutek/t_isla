@@ -1,9 +1,0 @@
-﻿>> Registro de Aventureros y Scores (¡Entre más alto mejor!)
-
-
-Nombre: Xiutek | 0.25
-Nombre: Xiutek | 0.44444445
-Nombre: Xiutek | 0.8333334
-Nombre: Xiutek | 2
-Nombre: Xiutek | Score: 4.5
-

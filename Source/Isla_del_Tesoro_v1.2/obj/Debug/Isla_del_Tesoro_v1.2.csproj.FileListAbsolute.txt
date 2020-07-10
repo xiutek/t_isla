@@ -1,0 +1,27 @@
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\obj\Debug\Isla_del_Tesoro_v1.2.csprojAssemblyReference.cache
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\obj\Debug\Isla_del_Tesoro_v1.2.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\bin\Debug\System.Buffers.dll
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\bin\Debug\System.Drawing.Common.dll
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\bin\Debug\System.Memory.dll
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\bin\Debug\System.Buffers.xml
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\bin\Debug\System.Memory.xml
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\obj\Debug\Isla_del_Tesoro_v1.2.csproj.CopyComplete
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\bin\Debug\Isla del Tesoro.exe.config
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\bin\Debug\Isla del Tesoro.exe.manifest
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\bin\Debug\Isla del Tesoro.application
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\bin\Debug\Isla del Tesoro.exe
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\bin\Debug\Isla del Tesoro.pdb
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\obj\Debug\Isla_del_Tesoro_v1._2.Properties.Resources.resources
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\obj\Debug\Isla_del_Tesoro_v1.2.csproj.GenerateResource.cache
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\obj\Debug\Isla del Tesoro.exe.manifest
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\obj\Debug\Isla del Tesoro.application
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\obj\Debug\Isla del Tesoro.exe
+C:\Users\x\Documents\GitHub\t_isla\Develop\Isla_del_Tesoro_v1.2\obj\Debug\Isla del Tesoro.pdb

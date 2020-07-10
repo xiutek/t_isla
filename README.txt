@@ -33,20 +33,23 @@ Libre distribución, replica modificación con créditos al autor (Xiutek)
 
 REAMDE : Información e Instrucciones
 Source : Código fuente
-Isla del Tesoro: Acceso directo al Ejecutable
+Isla del Tesoro: Contiene instalador y ejecutable.
+
+Isla del Tesoro: 
+Isla del Tesoro : Aplicación de Consola
+Setup : Instalador de Windows 
 
 Source / IslaTesoro:
 Isla_del_Tesoro.sln : Proyecto de Visual Studio
 Isla_del_Tesoro.cs : Archivo MAIN, invoca al resto de los .cs
-
-Ejecutable: t_isla/Ejecutable/Isla_del_Tesoro.exe
 
 
 
 // Instrucciones
 
 1. Clonar este repositorio (descargar este repositorio como zip y descomprimirlo en tu ordenador)
-2. Ejecutar: t_isla/Ejecutable/Isla_del_Tesoro.exe
+2. Ejecutar el Setup para instalar Isla del Tesoro en tu ordenador
+3. Ahora puedes abrir Isla del Tesoro desde windows como cualquier otro programa
 
 // Problemas al iniciar
 
