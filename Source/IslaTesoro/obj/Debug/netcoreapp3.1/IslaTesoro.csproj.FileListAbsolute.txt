@@ -1,0 +1,13 @@
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\bin\Debug\netcoreapp3.1\IslaTesoro.exe
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\bin\Debug\netcoreapp3.1\IslaTesoro.deps.json
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\bin\Debug\netcoreapp3.1\IslaTesoro.runtimeconfig.json
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\bin\Debug\netcoreapp3.1\IslaTesoro.runtimeconfig.dev.json
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\bin\Debug\netcoreapp3.1\IslaTesoro.dll
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\bin\Debug\netcoreapp3.1\IslaTesoro.pdb
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\obj\Debug\netcoreapp3.1\IslaTesoro.csprojAssemblyReference.cache
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\obj\Debug\netcoreapp3.1\IslaTesoro.AssemblyInfoInputs.cache
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\obj\Debug\netcoreapp3.1\IslaTesoro.AssemblyInfo.cs
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\obj\Debug\netcoreapp3.1\IslaTesoro.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\obj\Debug\netcoreapp3.1\IslaTesoro.dll
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\obj\Debug\netcoreapp3.1\IslaTesoro.pdb
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\obj\Debug\netcoreapp3.1\IslaTesoro.genruntimeconfig.cache

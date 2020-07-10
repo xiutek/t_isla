@@ -1,0 +1,12 @@
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\bin\Release\netcoreapp3.1\Isla_del_Tesoro.exe
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\bin\Release\netcoreapp3.1\Isla_del_Tesoro.deps.json
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\bin\Release\netcoreapp3.1\Isla_del_Tesoro.runtimeconfig.json
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\bin\Release\netcoreapp3.1\Isla_del_Tesoro.runtimeconfig.dev.json
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\bin\Release\netcoreapp3.1\Isla_del_Tesoro.dll
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\bin\Release\netcoreapp3.1\Isla_del_Tesoro.pdb
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\obj\Release\netcoreapp3.1\Isla_del_Tesoro.AssemblyInfoInputs.cache
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\obj\Release\netcoreapp3.1\Isla_del_Tesoro.AssemblyInfo.cs
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\obj\Release\netcoreapp3.1\Isla_del_Tesoro.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\obj\Release\netcoreapp3.1\Isla_del_Tesoro.dll
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\obj\Release\netcoreapp3.1\Isla_del_Tesoro.pdb
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\obj\Release\netcoreapp3.1\Isla_del_Tesoro.genruntimeconfig.cache

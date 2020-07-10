@@ -1,0 +1,21 @@
+Desarrollado por Xiutek (J Pablo Fdez M)
+para "Lógica de la Programación" || XP
+
+Licencia Creative Commons (cc)
+http://github.com/xiutek/
+
+Visita: https://open.spotify.com/artist/5qTnLG6ibaUhGHInogBQyy
+
+
+▒██   ██▒ ██▓ █    ██ ▄▄▄█████▓▓█████  ██ ▄█▀
+▒▒ █ █ ▒░▓██▒ ██  ▓██▒▓  ██▒ ▓▒▓█   ▀  ██▄█▒
+░░  █   ░▒██▒▓██  ▒██░▒ ▓██░ ▒░▒███   ▓███▄░
+ ░ █ █ ▒ ░██░▓▓█  ░██░░ ▓██▓ ░ ▒▓█  ▄ ▓██ █▄
+▒██▒ ▒██▒░██░▒▒█████▓   ▒██▒ ░ ░▒████▒▒██▒ █▄
+▒▒ ░ ░▓ ░░▓  ░▒▓▒ ▒ ▒   ▒ ░░   ░░ ▒░ ░▒ ▒▒ ▓▒
+░░   ░▒ ░ ▒ ░░░▒░ ░ ░     ░     ░ ░  ░░ ░▒ ▒░
+ ░    ░   ▒ ░ ░░░ ░ ░   ░         ░   ░ ░░ ░
+ ░    ░   ░     ░                 ░  ░░  ░
+
+
+(Presiona cualquier tecla para salir)
