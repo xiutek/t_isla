@@ -28,6 +28,9 @@ Libre distribución, replica modificación con créditos al autor (Xiutek)
 
 // Estructura del Repositorio:
 
+
+
+
 REAMDE : Información e Instrucciones
 Source : Código fuente
 Isla del Tesoro: Acceso directo al Ejecutable
@@ -36,21 +39,14 @@ Source / IslaTesoro:
 Isla_del_Tesoro.sln : Proyecto de Visual Studio
 Isla_del_Tesoro.cs : Archivo MAIN, invoca al resto de los .cs
 
-Sourse / IslaTesoro / bin / Release / netcoreapp3.1
-Isla_del_Tesoro.exe : Archivo Ejecutable en Windows
+Ejecutable: t_isla/Ejecutable/Isla_del_Tesoro.exe
 
 
 
 // Instrucciones
 
 1. Clonar este repositorio (descargar este repositorio como zip y descomprimirlo en tu ordenador)
-2. Abrir el Acceso Directo al ejecutable o bien el ejecutable para iniciar el juego.
-
-Información:
-El repositorio cuenta en la carpeta principal con un acceso directo al archivo ejecutable, que se encuentra en (t_isla/Sourse/IslaTesoro/bin/Release/netcoreapp3.1/Isla_del_Tesoro.exe) 
-Abrir el Acceso directo debería iniciar el juego, si esto no ocurre, navegar a la ruta del ejecutable y abrirlo directamente.
-Esperar a que la consola inicie el juego preguntando si el usuario desea ver el tutorial y responder para iniciar el juego.
-
+2. Ejecutar: t_isla/Ejecutable/Isla_del_Tesoro.exe
 
 // Problemas al iniciar
 

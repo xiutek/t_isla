@@ -10,3 +10,4 @@ C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\obj\Release\netcoreapp3.1\I
 C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\obj\Release\netcoreapp3.1\Isla_del_Tesoro.dll
 C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\obj\Release\netcoreapp3.1\Isla_del_Tesoro.pdb
 C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\obj\Release\netcoreapp3.1\Isla_del_Tesoro.genruntimeconfig.cache
+C:\Users\x\Documents\GitHub\t_isla\Source\IslaTesoro\obj\Release\netcoreapp3.1\Isla_del_Tesoro.csprojAssemblyReference.cache
